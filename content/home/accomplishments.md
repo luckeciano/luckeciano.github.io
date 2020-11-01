@@ -55,7 +55,7 @@ date_format = "Jan 2006"
   url = "https://software.intel.com/content/www/us/en/develop/community/ambassadors.html"
   certificate_url = ""
   date_start = "2018-10-01"
-  date_end = "2018-02-01"
+  date_end = "2020-02-01"
   description = """As part of the Intel® AI Developer Program, get access to newly optimized frameworks and technologies, hands-on training, and technical resources for graduate and PhD students from top universities worldwide to further innovation in AI."""
 
 [[item]]

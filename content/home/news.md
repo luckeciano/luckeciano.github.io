@@ -21,5 +21,10 @@ date_format = "Jan 2006"
 
 * **October 2020:** _MARS-Gym: Offline Reinforcement Learning for Recommender Systems in Marketplaces_ was accepted as an spotlight talk in the _Challenges of Real World Reinforcement Learning Workshop at Neural Information Processing Systems_!
 * **September 2020:** We presented _Contextual Meta-Bandit for Recommender Systems Selection_ in the ACM Conference on Recommender Systems 2020!
+* **February 2020:** Joined Microsoft as Software Engineer!
+* **October 2019:** Pleased to announce that my MSc dissertation _Imitation Learning and Meta-Learning for Optimizing Humanoid Robot Motions_ was awarded as the best Brazilian MSc work in AI in the _AI Awards 2019_!
+* **October 2019:** Pleased to announce that my MSc dissertation _Imitation Learning and Meta-Learning for Optimizing Humanoid Robot Motions_ was awarded as the best Brazilian MSc work  in Robotics in the _V Best MSc Dissertation and PhD Thesis Contest in Robotics_!
+* **October 2019:** Pleased to announce that our paper _Learning Humanoid Running Skills Through Proximal Policy Optimization_ was awarded as the best paper in the _Latin America Robotics Symposium_!
+
 
 
