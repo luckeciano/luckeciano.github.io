@@ -19,6 +19,8 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 +++
 
+* **May 2022:** _Transformers are Meta-Reinforcement Learners_ was accepted as an spotlight talk in the _International Conference on Machine Learning_!
+* **October 2021:** _PulseRL: Enabling Offline Reinforcement Learning for Digital Marketing Systems via Conservative Q-Learning_ was accepted as an spotlight talk in the _Offline Reinforcement Learning Workshop at Neural Information Processing Systems_!
 * **October 2020:** _MARS-Gym: Offline Reinforcement Learning for Recommender Systems in Marketplaces_ was accepted as an spotlight talk in the _Challenges of Real World Reinforcement Learning Workshop at Neural Information Processing Systems_!
 * **September 2020:** We presented _Contextual Meta-Bandit for Recommender Systems Selection_ in the ACM Conference on Recommender Systems 2020!
 * **February 2020:** Joined Microsoft as Software Engineer!

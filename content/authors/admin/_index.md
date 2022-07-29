@@ -6,22 +6,21 @@ title: Luckeciano Melo
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Researcher, Software Engineer
+role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
 - name: Microsoft
-  url: ""
-- name: Artificial Intelligence Center of Excelence
+  url: "https://www.microsoft.com/en-us/research/people/lumel/"
+- name: Center of Excelence in Artificial Intelligence
   url: "http://centrodeia.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in the general area of machine learning, particularly in reinforcement learning and applications in robotics, continuous control and multi-agent systems.
 
 interests:
-- Reinforcement Learning
-- Meta-Learning
-- RL for Production Systems (Robotics, Recommender Systems, Multi-Agent Systems)
+- Reinforcement Learning (Meta-RL, Offline RL)
+- Representation Learning
 
 education:
   courses:
@@ -51,7 +50,7 @@ social:
   link: https://github.com/luckeciano
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/luckeciano-carvalho-melo-4001a4b6/
+  link: https://www.linkedin.com/in/luckeciano-melo/
 - icon: medium
   icon_pack: fab
   link: https://medium.com/@luckecianomelo
@@ -74,9 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Luckeciano Melo is Head of RL Research at AI Center of Excellence (previously called as Deep Learning Brazil Research Group), where he works in core research problems as well as applications for production systems within industry partners. He also works as Software Engineer at Microsoft, building asynchronous, multi-thread, and distributed applications for data processing.
+Luckeciano Melo is Head of RL Research at AI Center of Excellence (previously called as Deep Learning Brazil Research Group), where he works in core research problems as well as applications for production systems within industry partners. He also works as Applied Scientist at Microsoft, working with multi-modal representation learning for web data semantic understanding.
 
 
-His research focus is to develop agents that learn behaviors through interaction, in a efficient, generalist, and adaptive way.  Specifically, his primary focus of research and interest is to develop and apply meta-learning and reinforcement learning algorithms for high dimensional control tasks, aiming data efficiency and reusability of prior knowledge. 
-
-He applies and evaluates his research in several domains, such as robotics, multi-agent systems, recommender systems, and marketing engines.
+His research focus is to develop agents that learn behaviors through interaction, in a efficient, generalist, and adaptive way.  He believes that we
+can achieve this with meaningful semantic representations and world models, aligned with inductive biases on high-level cognition.

@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Head of RL Research"
-  company = "AI Center of Excellence (Deep Learning Brazil)"
+  company = "Center of Excellence in AI (Deep Learning Brazil)"
   company_url = "http://centrodeia.org/"
   location = "Remote"
   date_start = "2019-06-01"
@@ -33,12 +33,29 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
+  title = "Applied Scientist"
+  company = "Microsoft"
+  company_url = ""
+  location = "Seattle, US"
+  date_start = "2021-10-11"
+  date_end = ""
+  description = """
+  
+  Works with multi-modal representation learning for web data semantic understanding.
+
+  Responsibilities include:
+  
+  * Leading efforts to scale HTML-based deep learning models for 400 bilion documents
+  * Data Engineering, Data Analysis, Feature Engineering, Model development, Deployment, Monitoring
+  """
+
+[[experience]]
   title = "Software Engineer"
   company = "Microsoft"
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2020-02-18"
-  date_end = ""
+  date_end = "2021-10-10"
   description = """
   
   Works building up microservices that enable data transfer/processing from SQL databases to Azure

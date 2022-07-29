@@ -5,7 +5,7 @@ authors = ["Luckeciano C Melo*", "Marlesson Santana*", "Fernando Camargo*", "Bru
 publication_types = ["1"]
 abstract = ""
 selected = false
-featured = true
-publication = "To appear in the Challenges of Real World Reinforcement Learning at Neural Information Processing Systems 2020 (**Spotlight talk**)"
+featured = false
+publication = "Challenges of Real World Reinforcement Learning at Neural Information Processing Systems 2020 (**Spotlight talk**)"
 url_pdf = "https://arxiv.org/abs/2010.07035"
 +++
