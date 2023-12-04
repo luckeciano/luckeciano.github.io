@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Oxford
-    year: 2023
+    year: 2026
   - course: MSc in Artificial Intelligence
     institution: Aeronautics Institute of Technology
     year: 2019
