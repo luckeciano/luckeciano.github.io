@@ -6,24 +6,31 @@ title: Luckeciano Melo
 superuser: true
 
 # Role/position
-role: Applied Scientist
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Microsoft
-  url: "https://www.microsoft.com/en-us/research/people/lumel/"
-- name: Center of Excelence in Artificial Intelligence
-  url: "http://centrodeia.org/"
+- name: University of Oxford
+  url: https://www.cs.ox.ac.uk/
+- name: Oxford Applied and Theoretical Machine Learning Group
+  url: https://oatml.cs.ox.ac.uk/
+# - name: Microsoft
+#   url: "https://www.microsoft.com/en-us/research/people/lumel/"
+# - name: Center of Excelence in Artificial Intelligence
+#   url: "http://centrodeia.org/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in the general area of machine learning, particularly in reinforcement learning and applications in robotics, continuous control and multi-agent systems.
+bio: My research interests lie in the general area of machine learning, particularly in reinforcement learning and applications in robotics, planning and control, and multi-agent systems.
 
 interests:
-- Reinforcement Learning (Meta-RL, Offline RL)
+- Reinforcement Learning (Meta-RL, Offline RL, Model-Based RL)
 - Representation Learning
 
 education:
   courses:
+  - course: PhD in Computer Science
+    institution: University of Oxford
+    year: 2023
   - course: MSc in Artificial Intelligence
     institution: Aeronautics Institute of Technology
     year: 2019
@@ -72,9 +79,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+Luckeciano is a DPhil student in the OATML group, supervised by Yarin Gal and Alessandro Abate. His research interests lie in designing agents that learn behaviors through interactions in an efficient, generalist, safe, and adaptive way. He believes that such agents emerge from three main pillars: semantically rich representations of entities in the world; self-supervised World Models with inductive biases for memory and counterfactual reasoning; and fast policy adaptation mechanisms for out-of-distribution generalization.
 
-Luckeciano Melo is Head of RL Research at AI Center of Excellence (previously called as Deep Learning Brazil Research Group), where he works in core research problems as well as applications for production systems within industry partners. He also works as Applied Scientist at Microsoft, working with multi-modal representation learning for web data semantic understanding.
+Previously, he worked as an Applied Scientist at Microsoft, working with multi-modal representation learning and large language models for web data semantic understanding. He also led the RL Research group at the Center of Excellence in AI in Brazil, working with real-world RL applications in scalable digital platforms with industry partners.
 
-
-His research focus is to develop agents that learn behaviors through interaction, in a efficient, generalist, and adaptive way.  He believes that we
-can achieve this with meaningful semantic representations and world models, aligned with inductive biases on high-level cognition.
