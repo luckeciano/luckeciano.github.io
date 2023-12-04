@@ -38,14 +38,16 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Seattle, US"
   date_start = "2021-10-11"
-  date_end = ""
+  date_end = "2023-09-30"
   description = """
   
   Works with multi-modal representation learning for web data semantic understanding.
 
   Responsibilities include:
   
+  * Tech Leader for the Semantic Document project in the Bing Document Understanding team.
   * Leading efforts to scale HTML-based deep learning models for 400 bilion documents
+  * Developed an LLM-based pipeline for Semantic Document label extraction
   * Data Engineering, Data Analysis, Feature Engineering, Model development, Deployment, Monitoring
   """
 
