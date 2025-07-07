@@ -24,7 +24,8 @@ bio: My research interests lie in the general area of machine learning, particul
 
 interests:
 - Reinforcement Learning (Meta-RL, Offline RL, Model-Based RL)
-- Representation Learning
+- Probabilistic Modeling for Decision-Making
+- Applications in LLMs, Robotics, Control Systems
 
 education:
   courses:
